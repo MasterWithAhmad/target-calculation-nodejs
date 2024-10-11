@@ -1,0 +1,3 @@
+C:\Users\Ahmad\OneDrive\Desktop\node js\Working Days-Based Target Calculation\target_calculator\obj\Debug\target_calculator.njsproj.AssemblyReference.cache
+C:\Users\Ahmad\OneDrive\Desktop\node js\Working Days-Based Target Calculation\target_calculator\obj\Debug\target_calculator.njsproj.CoreCompileInputs.cache
+C:\Users\Ahmad\OneDrive\Desktop\node js\Working Days-Based Target Calculation\target_calculator\bin\Microsoft.NodejsTools.WebRole.dll
